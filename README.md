@@ -23,13 +23,13 @@ Perform an analysis to understand the driving factors (or driver variables)
 behind loan default, i.e.the variables which are strong indicators of default.  
 The company can utilise this knowledge for its portfolio and risk assessment.
 
-Using following steps to data processing.
+Using following steps for data processing.
 
-Step 1: Data Cleaning
-Step 2: Univariate Analysis
-Step 3: Segemented Univariate Analysis
-Step 4: Bivaraiate/Multivariate Analysis
-Step 5: Results/Conclusion
+- Step 1: Data Cleaning
+- Step 2: Univariate Analysis
+- Step 3: Segemented Univariate Analysis
+- Step 4: Bivaraiate/Multivariate Analysis
+- Step 5: Results/Conclusion
 
 <!--
 - Provide general information about your project here.
