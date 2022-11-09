@@ -40,8 +40,11 @@ Give credit here.
 - This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Contributors
+Ratnesh Zinzuwadia
+Rajesh Sharma
+
+Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
 
 <!-- Optional -->
