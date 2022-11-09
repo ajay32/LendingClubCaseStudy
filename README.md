@@ -5,25 +5,31 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contributors](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+
+Lending loans to ‘risky’ applicants is the largest source of financial loss
+(called credit loss). The credit loss is the amount of money lost by the lender 
+when the borrower refusesto pay or runs away with the money owed.  
+
+The main objective is to be able to identify these risky loan applicants, 
+then such loans can be reduced thereby cutting down the amount of credit loss. 
+Identification of such applicants using EDA is the aim of this case study.   
+
+Perform an analysis to understand the driving factors (or driver variables)
+behind loan default, i.e.the variables which are strong indicators of default.  
+The company can utilise this knowledge for its portfolio and risk assessment.
+<!--
 - Provide general information about your project here.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
-
+-->
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -33,11 +39,14 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Conclusions
+- Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan default.
+- Loans with a term of 36 months tended to be defaulted a lot more than loans with a term of 60 months, Choose a loan with a 60-month term.
+- Certain sun- grades were almost certain to default compared to other sub-grades. Selecting loans of subgrade B5 and higher will result in a 90% chance of repayment.
+- Small business loans defaulted more. The lending club should stop/reduce issuing the loans to them.
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 
 ## Contributors
